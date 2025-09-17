@@ -1,4 +1,6 @@
-# 🎓 Smart Attendance System – Frontend (React.js)
+# 🎓 Automated Attendance System – Frontend (React.js)
+
+**Main Repository: (Full project here 👉):** [Automated Attendance System using Face Recognition and Visualization](https://github.com/Vinaykrish25/Automated-Attendance-System-using-Face-Recognition-and-Visualization.git)
 
 This is the **frontend** of the Smart Attendance System project, built using **React.js**.  
 It provides a user-friendly interface for students and admins to interact with the automated attendance system.
@@ -22,62 +24,6 @@ npm install axios chart.js chartjs-plugin-datalabels file-saver html2canvas jspd
 ```bash
 npm start
 ```
-
-### 📸 Screenshots
-
-### 🏠 Home Page
-
-![Home Page](/screenshots/HomePage.png)
-
----
-
-### 🎓 Student Dashboard
-
-![Student Dashboard](/screenshots/Student_Dashboard.png)
-
----
-
-### 🔐 Admin Login Page
-
-![Admin Login](/screenshots/Admin_Login.png)
-
----
-
-### 📅 Attendance Records Table
-
-![Attendance Records](/screenshots/Attendance_Records.png)
-
----
-
-### 📊 Absences by Period (Bar Chart)
-
-![Chart 1](/screenshots/Chart_1.png)
-
----
-
-### 🧍 Single Student Attendance Proportions (Pie Chart)
-
-![Chart 2](/screenshots/Chart_2.png)
-
----
-
-### 👥 Absent Periods by Student (Bar Chart)
-
-![Chart 3](/screenshots/Chart_3.png)
-
----
-
-### 🧾 Attendance Composition per Student (Stacked Chart)
-
-![Chart 4](/screenshots/Chart_4.png)
-
----
-
-### 📈 Overall Attendance Trend (Line Chart)
-
-![Chart 5](/screenshots/Chart_5.png)
-
----
 
 ### ✅ Project Structure (Frontend Only)
 
