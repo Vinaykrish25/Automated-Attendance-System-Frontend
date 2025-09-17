@@ -3,7 +3,7 @@
 This is the **frontend** of the Smart Attendance System project, built using **React.js**.  
 It provides a user-friendly interface for students and admins to interact with the automated attendance system.
 
-![Demo Link](https://automated-attendance-system-fronten.vercel.app/)
+🔗 **Live Demo (Frontend):** [See demo](https://automated-attendance-system-fronten.vercel.app/)
 
 ---
 
