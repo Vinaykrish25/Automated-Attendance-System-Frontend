@@ -27,7 +27,7 @@ npm start
 
 ### 🏠 Home Page
 
-![Home Page](../screenshots//HomePage.png)
+![Home Page](../screenshots/HomePage.png)
 
 ---
 
